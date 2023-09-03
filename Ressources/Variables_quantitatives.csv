@@ -1,0 +1,21 @@
+Nom de la variable quantitative,Description sommaire
+ID,ID
+MMS,Nom fabricant sur registre MS
+r,Nombre total de nouvelles immatriculations
+m (kg),Masse
+Mt,Test de masse WLTP
+Enedc (g/km),Emissions CO2 (NEDC)
+Ewltp (g/km),Emissions CO2 (WLTP)
+W(mm),Wheel base (mm) - taille des roues
+At1 (mm),Axle width
+At2 (mm),Axle width other axle
+ec (cm3),engine capacity (cm3)
+ep (KW),engine power
+z (Wh/km),electric energy consumption
+Ernedc (g/km),Emissions reduction through innovative technologies
+Erwltp (g/km),Emissions reduction through innovative technologies (WLTP)
+De,Deviation factor
+Vf,Verification factor
+year,Reporting year
+Fuel consumption,Fuel consumption
+Electric range (km),Portee du vehicule (electrique uniquement)

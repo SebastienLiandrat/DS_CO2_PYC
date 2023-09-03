@@ -1,0 +1,19 @@
+Nom de la variable categorielle,Description sommaire
+Country,PAYS
+VFN,Famille de vehicule
+Mp,Pool de fabricants
+Mh,fabricant
+Man,Nom fabricant sur declaration OEM
+Tan,Nombre d'homologations
+T,Type
+Va,Variante
+Ve,Ft
+Mk,Constructeur (marque)
+Cn,Modele (nom commercial)
+Ct,Categorie du type de vehicule
+Cr,Categorie du vehicule
+Ft,Fuel type
+Fm,Fuel mode
+IT,Innovative technology or grup of innovative technologies
+Status,P = Provisional data - F = Final data
+Date of registration,NC

@@ -45,6 +45,8 @@ def display_dataframe_quickly(df, max_rows=5000, **st_dataframe_kwargs):
         st.text('Displaying rows %i to %i of %i.' % (start_row, end_row - 1, n_rows))
 
 
+### Page
+
 st.set_page_config(page_title="Étapes de préprocessing", page_icon="📈")
 
 st.markdown("# Étapes de préprocessing")
@@ -83,11 +85,14 @@ st.write("Variable Ct : Suppression des modalités très peu présentes (quelque
 
 st.write("Variable Ft : Suppression des modalités correspondant aux véhicules électriques, à hydrogène et UNKNOWN")
 
+st.write("Dichotomisation")
 
 """
 ## Traitement des variables quantitatives
 """
 st.write("Suppression des NA : remplacement par la médiane")
+
+st.write("Standardisation")
 
 
 

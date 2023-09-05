@@ -33,7 +33,7 @@ X_reduit = pd.read_csv(dossier_local + "Streamlit/Ressources/" + "X_reduit.csv",
 
 st.write('### Scores obtenus')
 
-scores = [['Lasso', 0.808],['Ridge', 0.830], ['Gradient Boosting', 0.928],['Random Forest', 0.960]]
+scores = [['Lasso', 0.808],['Ridge', 0.830], ['Gradient Boosting', 0.928],['Random Forest', 0.990]]
 df_scores = pd.DataFrame(scores, columns = ['Modèle','Score'])
 
 if st.checkbox('Affichage'):

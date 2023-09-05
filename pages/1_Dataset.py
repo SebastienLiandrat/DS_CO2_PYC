@@ -14,7 +14,7 @@ import pandas as pd
 
 
 
-st.set_page_config(page_title="Plotting Demo", page_icon="📈")
+st.set_page_config(page_title="Dataset", page_icon="📈")
 
 st.markdown("# Présentation du dataset")
 st.sidebar.header("Dataset")

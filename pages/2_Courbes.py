@@ -32,4 +32,6 @@ if st.checkbox('Répartition m(kg)'):
     st.image(img_mkg)
     #st.bar_chart(data['Country'])
 
-
+img_hm = Image.open(dossier_local + "Streamlit/Ressources/" + 'heatmap.jpeg')
+if st.checkbox('Heat map'):
+    st.image(img_hm)
